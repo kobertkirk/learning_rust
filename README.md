@@ -22,5 +22,5 @@ To run the guessing game, you need to have Rust installed on your system. You ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name/guessing_game
+   git clone https://github.com/yourusername/learning_rust.git
+   cd learning_rust/guessing_game
