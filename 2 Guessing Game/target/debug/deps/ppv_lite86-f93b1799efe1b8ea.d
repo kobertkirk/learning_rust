@@ -1,0 +1,11 @@
+/home/kobert/learning_rust/rust/guessing_game/target/debug/deps/libppv_lite86-f93b1799efe1b8ea.rmeta: /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/kobert/learning_rust/rust/guessing_game/target/debug/deps/libppv_lite86-f93b1799efe1b8ea.rlib: /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/kobert/learning_rust/rust/guessing_game/target/debug/deps/ppv_lite86-f93b1799efe1b8ea.d: /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/lib.rs:
+/home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/soft.rs:
+/home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/types.rs:
+/home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/mod.rs:
+/home/kobert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ppv-lite86-0.2.20/src/x86_64/sse2.rs:
